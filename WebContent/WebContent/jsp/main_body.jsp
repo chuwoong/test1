@@ -6,9 +6,13 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 aaaaa
 bbbbb
 cc
+=======
+vbbb
+>>>>>>> refs/remotes/origin/gate
 </body>
 </html>
 
